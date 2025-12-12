@@ -1,3 +1,3 @@
 # Bom-Servico-Projeto-Academico
-O projeto do sistema Bom Serviço trata-se de um sistema básico de anúncio de serviços prestados por pessoas que desejam anunciar seus serviços e pessoas que desejem contratar tais serviços.
+O projeto do sistema Bom Serviço trata-se de um sistema básico, desenvolvido no ambiente acadêmico, de anúncio de serviços prestados por pessoas que desejam anunciar seus serviços e pessoas que desejem contratar tais serviços.
 Trata-se de um serviço web desenvolvido com base no framework Spring Boot (Java), com armazenamento integrado com banco de dados (PostGress).
